@@ -1,0 +1,44 @@
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25pt;
+
+}
+
+h2
+{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45pt;
+    text-align: center;
+    color: black;
+
+}
+
+
+.audio
+{
+
+    text-align: center;
+}
+
+h1
+
+{
+
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
+
+.image
+{
+    text-align: center;
+}
+
+td
+{
+    color: black;
+}
